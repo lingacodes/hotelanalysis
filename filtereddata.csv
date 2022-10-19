@@ -1,0 +1,88 @@
+,Unnamed: 0,Hotel Names,Location ,Ratings,Number of Reviews,Prices,Region,range
+37,0,ST Signature Jalan Besar,Little India,7.7,395 reviews,101,Central,$100 to $300
+44,7,Ibis Budget Singapore Imperial,Lavender,7.1,492 reviews,127,Central,$100 to $300
+53,16,Ibis Budget Singapore Selegie,Selegie,6.9,512 reviews,148,Central,$100 to $300
+86,49,The Sultan,Kampong Glam,8,608 reviews,156,South,$100 to $300
+61,24,Hotel Boss,Kallang,7.1,"6,201 reviews",158,East,$100 to $300
+69,32,Hotel Boss,Kallang,7.1,"6,201 reviews",158,East,$100 to $300
+56,19,Ibis Singapore Novena,Novena,7.5,292 reviews,168,Central,$100 to $300
+42,5,Ibis Budget Singapore Clarke Quay,Boat Quay,7.2,"1,541 reviews",169,Central,$100 to $300
+47,10,Hotel Royal at Queens,Victoria,7.6,"1,536 reviews",178,Central,$100 to $300
+46,9,ibis Styles Singapore Albert,Bencoolen,7.2,42 reviews,186,Central,$100 to $300
+71,34,Ibis Styles Singapore On Macpherson,Macpherson,6.6,780 reviews,189,East,$100 to $300
+54,17,Days Hotel by Wyndham Singapore at Zhongshan Park,Novena,8.2,"1,035 reviews",191,Central,$100 to $300
+70,33,Days Hotel by Wyndham Singapore at Zhongshan Park,Novena,8.2,"1,035 reviews",191,Central,$100 to $300
+82,45,Ji Hotel Orchard Singapore,Dhoby Ghaut,8.3,524 reviews,194,South,$100 to $300
+60,23,Village Hotel Bugis by Far East Hospitality,Kampong Glam,7.7,"2,552 reviews",212,Central,$100 to $300
+80,43,Village Hotel Katong by Far East Hospitality,Katong,8.5,"1,117 reviews",217,East,$100 to $300
+50,13,Mercure Singapore On Stevens,Orchard,7.4,404 reviews,220,South,$100 to $300
+75,38,"Holiday Inn Express Singapore Serangoon, an IHG Hotel",Lavender,8.3,513 reviews,236,South,$100 to $300
+63,26,Ramada by Wyndham Singapore at Zhongshan Park,Novena,8.2,"1,779 reviews",244,Central,$100 to $300
+34,34, Hotel Mi,Bencoolen,4 of 5 bubbles,751 reviews,246,Central,$100 to $300
+45,8,M Social Singapore,Robertson Quay,7.7,"2,708 reviews",254,Central,$100 to $300
+62,25,M Social Singapore,Robertson Quay,7.7,"2,708 reviews",254,Central,$100 to $300
+51,14,"Holiday Inn Express Singapore Clarke Quay, an IHG Hotel",Clarke Quay,8.4,"2,178 reviews",257,South,$100 to $300
+49,12,Copthorne King's Hotel Singapore on Havelock,Robertson Quay,7.7,509 reviews,259,Central,$100 to $300
+57,20,Park Regis Singapore,Clarke Quay,7.9,"1,651 reviews",260,South,$100 to $300
+29,29, J Hotel,Farrer Park,3.5 of 5 bubbles,481 reviews,260,Central,$100 to $300
+41,4,Grand Copthorne Waterfront,Robertson Quay,7.3,"1,634 reviews",262,Central,$100 to $300
+74,37,Park Regis Singapore,Clarke Quay,7.9,"1,651 reviews",264,South,$100 to $300
+43,6,"Holiday Inn Singapore Little India, an IHG Hotel",Farrer Park,8.1,743 reviews,266,Central,$100 to $300
+52,15,YOTEL Singapore Orchard Road,Orchard,8.2,"4,083 reviews",275,South,$100 to $300
+66,29,"Holiday Inn Singapore Atrium, an IHG Hotel",Robertson Quay,8.2,172 reviews,282,Central,$100 to $300
+12,12, ibis Styles Singapore Albert,Rochor,4.5 of 5 bubbles,"1,157 reviews",296,Central,$100 to $300
+33,33, Strand Hotel,Bencoolen,3.5 of 5 bubbles,610 reviews,299,Central,$100 to $300
+84,47,Royal Plaza on Scotts,Orchard,8.1,"1,018 reviews",306,Central,$300 to $650
+79,42,YOTELAIR Singapore Changi Airport Landside,Changi,7.8,"3,293 reviews",311,Central,$300 to $650
+38,1,The Outpost Hotel Sentosa by Far East Hospitality,Sentosa Island,8.6,362 reviews,328,South,$300 to $650
+68,31,"Holiday Inn Express Singapore Orchard Road, an IHG Hotel",Orchard,8.3,686 reviews,335,South,$300 to $650
+59,22,"Holiday Inn Express Singapore Orchard Road, an IHG Hotel",Orchard,8.3,686 reviews,335,South,$300 to $650
+39,2,Village Hotel Sentosa by Far East Hospitality,Sentosa Island,8.3,900 reviews,339,South,$300 to $650
+55,18,Regent Singapore,Orchard,8.5,217 reviews,363,South,$300 to $650
+73,36,"Holiday Inn Singapore Orchard City Centre, an IHG Hotel",Orchard,8.1,631 reviews,375,East,$300 to $650
+78,41,"Four Points by Sheraton Singapore, Riverview",Robertson Quay,8.1,608 reviews,377,Central,$300 to $650
+83,46,"Oasia Hotel Downtown, Singapore by Far East Hospitality",Chinatown,8.4,"1,080 reviews",420,South,$300 to $650
+23,23,Mercure Singapore On Stevens,Orchard,4 of 5 bubbles,473 reviews,426,South,$300 to $650
+20,20," Crowne Plaza Changi Airport, an IHG Hotel",Changi Airport,4.5 of 5 bubbles,"6,356 reviews",432,East,$300 to $650
+30,30,"   Crowne Plaza Changi Airport, an IHG Hotel",Changi Airport,4.5 of 5 bubbles,"6,356 reviews",432,East,$300 to $650
+26,26, Travelodge Harbourfront,Harbourfront,4 of 5 bubbles,"1,518 reviews",439,East,$300 to $650
+85,48,Goodwood Park Hotel,Orchard,8.4,999 reviews,447,South,$300 to $650
+3,3, V Hotel Bencoolen,Bencoolen,4 of 5 bubbles,"2,344 reviews",449,Central,$300 to $650
+19,19, Hotel Boss,Lavender,4 of 5 bubbles,"4,033 reviews",484,Central,$300 to $650
+72,35,"Crowne Plaza Changi Airport, an IHG Hotel",Changi,8.7,"1,903 reviews",492,Central,$300 to $650
+25,25, Days Hotel by Wyndham Singapore at Zhongshan Park,Novena,4 of 5 bubbles,"2,920 reviews",499,Central,$300 to $650
+14,14, Hotel G Singapore,Bencoolen,4 of 5 bubbles,"3,938 reviews",504,Central,$300 to $650
+40,3,The Capitol Kempinski Hotel Singapore,City Hall,9,942 reviews,525,South,$300 to $650
+36,36,   Village Hotel Katong by Far East Hospitality,Paya Lebar,4.5 of 5 bubbles,"3,459 reviews",525,East,$300 to $650
+48,11,Swissotel The Stamford,City Hall,8.7,"1,521 reviews",539,South,$300 to $650
+77,40,"PARKROYAL COLLECTION Pickering, Singapore",Chinatown,8.8,"2,910 reviews",565,Central,$300 to $650
+67,30,The St Regis Singapore,Orchard,8.8,557 reviews,576,South,$300 to $650
+64,27,Pan Pacific Singapore,Marina Bay,8.7,"2,332 reviews",590,Central,$300 to $650
+58,21,Fairmont Singapore,City Hall,8.6,"1,465 reviews",603,South,$300 to $650
+81,44,JW Marriott Hotel Singapore South Beach,City Hall,8.5,303 reviews,611,East,$300 to $650
+11,11, York Hotel Singapore,Orchard,3.5 of 5 bubbles,"1,931 reviews",612,South,$300 to $650
+76,39,Sofitel Singapore City Centre,Tanjong Pagar,8.7,236 reviews,614,Central,$300 to $650
+0,0,   Hotel Indigo Singapore Katong,Mountbatten,4.5 of 5 bubbles,803 reviews,699,East,$650 to $1000
+28,28, Hotel Chancellor at Orchard,Orchard,3 of 5 bubbles,594 reviews,702,South,$650 to $1000
+35,35,Singapore Marriott Tang Plaza Hotel,Orchard,4.5 of 5 bubbles,"3,606 reviews",718,South,$650 to $1000
+32,32, Dorsett Singapore,Outram Park,4 of 5 bubbles,"1,384 reviews",730,Central,$650 to $1000
+7,7, The Scarlet Singapore,Chinatown,4 of 5 bubbles,"2,123 reviews",731,Central,$650 to $1000
+27,27, Park Avenue Rochester Hotel,Buona Vista,4 of 5 bubbles,"1,034 reviews",772,West,$650 to $1000
+21,21, Peninsula Excelsior Hotel,Clarke Quay,3.5 of 5 bubbles,"5,015 reviews",801,South,$650 to $1000
+22,22, Royal Plaza on Scotts,Orchard,4.5 of 5 bubbles,"5,478 reviews",840,South,$650 to $1000
+65,28,Marina Bay Sands,Marina Bay,9.1,"8,115 reviews",882,Central,$650 to $1000
+13,13,  Bencoolen,Bencoolen,4.5 of 5 bubbles,585 reviews,900,Central,$650 to $1000
+8,8, Orchard Hotel Singapore,Orchard,4.5 of 5 bubbles,"1,081 reviews",907,South,$650 to $1000
+31,31, Aqueen Hotel Paya Lebar,Paya Lebar,4 of 5 bubbles,345 reviews,925,East,$650 to $1000
+18,18,   Quincy Hotel Singapore by Far East Hospitality,Orchard,4.5 of 5 bubbles,"3,957 reviews",970,South,$650 to $1000
+4,4, The Clan Hotel by Far East Hospitality,The Raffles Place,5 of 5 bubbles,690 reviews,1016,South,$1000 to $2000
+16,16," Capri by Fraser, China Square / Singapore",Clarke Quay,4.5 of 5 bubbles,278 reviews,1053,South,$1000 to $2000
+5,5, YOTEL Singapore,Orchard,4 of 5 bubbles,"4,009 reviews",1169,South,$1000 to $2000
+15,15, Carlton Hotel Singapore,Bencoolen,4 of 5 bubbles,"5,020 reviews",1388,Central,$1000 to $2000
+10,10, Grand Copthorne Waterfront,Outram Park,4 of 5 bubbles,"5,123 reviews",1398,Central,$1000 to $2000
+17,17, Grand Park City Hall,City Hall,4.5 of 5 bubbles,"4,782 reviews",1421,South,$1000 to $2000
+6,6,   Holiday Inn Express Singapore Clarke Quay,Fort Canning,4 of 5 bubbles,"2,978 reviews",1425,Central,$1000 to $2000
+9,9, Park Regis Singapore,Clarke Quay,4 of 5 bubbles,"5,561 reviews",1531,South,$1000 to $2000
+2,2, Marina Bay Sands,Bayfront,4.5 of 5 bubbles,"29,595 reviews",1540,Central,$1000 to $2000
+24,24,"   PARKROYAL COLLECTION Pickering, Singapore",Outram,4.5 of 5 bubbles,"5,707 reviews",1700,Central,$1000 to $2000
+1,1," PARKROYAL COLLECTION Marina Bay, Singapore",Esplanade,4.5 of 5 bubbles,"8,980 reviews",1989,South,$1000 to $2000
